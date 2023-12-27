@@ -2,7 +2,8 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E71616&center=true&random=false&width=435&lines=The+Foor+Books+;1.2++SDL+Game+" alt="Typing SVG" /></a>
- <div align="center"> <img src="https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/0b50c6b8-7268-485d-b078-550cc49de865" alt="GitHub Logo" width="400" height="150" /></div>
+ 
+  https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/0b50c6b8-7268-485d-b078-550cc49de865
 
 # rayen.bouazizi
 1.2 SDL GAME 
@@ -65,8 +66,7 @@ https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/a4c
 ## puzzle 🗝️
 
 
- <div align="center"> < video src="https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/d12d7564-6b88-4cb1-8958-626721c55537
-" alt="puzzle" /></div>
+https://github.com/rayen-feb/rayen.bouazizi-THE-FOUR-BOOKS-/assets/131598929/d12d7564-6b88-4cb1-8958-626721c55537
 
 
 
