@@ -1,7 +1,4 @@
 
-![200w](https://github.com/ProjetCPP2A23/The-Foor-Books-/assets/131598929/6ab4abff-f636-421f-b306-84724787a15e)
-
-
 <a href="https://git.io/typing-svg"><img src="https://readm![Uploading giphy.gif…]()
 e-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E71616&center=true&random=false&width=435&lines=The+Foor+Books+;1.2++SDL+Game+" alt="Typing SVG" /></a>
  
